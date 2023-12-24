@@ -1,0 +1,28 @@
+{
+  "name": "food_ordering",
+  "version": "1.0.0",
+  "description": "Preparing a foor ordering app!",
+  "main": "app.js",
+  "scripts": {
+    "start": "parcel index.html",
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Ansh-Ghawri/React-Js.git"
+  },
+  "author": "Ansh Ghawri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Ansh-Ghawri/React-Js/issues"
+  },
+  "homepage": "https://github.com/Ansh-Ghawri/React-Js#readme",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "parcel": "^2.10.3",
+    "process": "^0.11.10"
+  }
+}
